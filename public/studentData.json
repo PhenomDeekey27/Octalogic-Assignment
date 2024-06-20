@@ -1,0 +1,38 @@
+[
+    {
+        "enrollment_number": "ENR001",
+        "student_name": "John Doe",
+        "course_name": "Music Theory",
+        "fees": 800,
+        "enrolled_date": "2023-01-15"
+    },
+    {
+        "enrollment_number": "ENR002",
+        "student_name": "Jane Smith",
+        "course_name": "Music Composition",
+        "fees": 900,
+        "enrolled_date": "2023-02-10"
+    },
+    {
+        "enrollment_number": "ENR003",
+        "student_name": "Alice Johnson",
+        "course_name": "Vocal Performance",
+        "fees": 850,
+        "enrolled_date": "2023-03-05"
+    },
+    {
+        "enrollment_number": "ENR004",
+        "student_name": "Michael Brown",
+        "course_name": "Instrumental Performance",
+        "fees": 950,
+        "enrolled_date": "2023-04-20"
+    },
+    {
+        "enrollment_number": "ENR005",
+        "student_name": "Emily Davis",
+        "course_name": "Music Production",
+        "fees": 1000,
+        "enrolled_date": "2023-05-15"
+    }
+   
+]
