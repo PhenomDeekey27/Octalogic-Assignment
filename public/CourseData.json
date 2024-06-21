@@ -1,0 +1,102 @@
+[
+    {
+        "course_name": "Percussion Techniques",
+        "description": "Learn the basics of percussion instruments, including proper technique and rhythm patterns.",
+        "instructor_name": "John Doe",
+        "instrument_name": "Drums",
+        "day_of_week": "Monday",
+        "number_of_students": 15,
+        "price": 300,
+        "status": "active"
+    },
+    {
+        "course_name": "Advanced Drumming",
+        "description": "This course focuses on advanced drumming techniques and complex rhythm structures.",
+        "instructor_name": "Jane Smith",
+        "instrument_name": "Drums",
+        "day_of_week": "Wednesday",
+        "number_of_students": 10,
+        "price": 400,
+        "status": "active"
+    },
+    {
+        "course_name": "Percussion Ensemble",
+        "description": "Join a percussion ensemble and learn how to perform as a group. Suitable for all skill levels.",
+        "instructor_name": "Alice Johnson",
+        "instrument_name": "Various Percussion Instruments",
+        "day_of_week": "Friday",
+        "number_of_students": 20,
+        "price": 350,
+        "status": "closed"
+    },
+    {
+        "course_name": "World Percussion",
+        "description": "Explore percussion instruments from around the world and learn their unique playing techniques.",
+        "instructor_name": "Michael Brown",
+        "instrument_name": "Various World Percussion Instruments",
+        "day_of_week": "Thursday",
+        "number_of_students": 12,
+        "price": 375,
+        "status": "active"
+    },
+    {
+        "course_name": "Drum Set Studies",
+        "description": "Focus on drum set techniques, including jazz, rock, and funk styles. Improve your coordination and timing.",
+        "instructor_name": "Emily Davis",
+        "instrument_name": "Drum Set",
+        "day_of_week": "Tuesday",
+        "number_of_students": 8,
+        "price": 450,
+        "status": "archived"
+    },
+    {
+        "course_name": "Orchestral Percussion",
+        "description": "Learn orchestral percussion techniques and repertoire. Ideal for those interested in classical music.",
+        "instructor_name": "David Wilson",
+        "instrument_name": "Timpani, Snare Drum, etc.",
+        "day_of_week": "Monday",
+        "number_of_students": 10,
+        "price": 500,
+        "status": "active"
+    },
+    {
+        "course_name": "Marching Percussion",
+        "description": "Techniques and performance practices for marching band percussion. Includes snare, bass, and tenor drums.",
+        "instructor_name": "Sophia Martinez",
+        "instrument_name": "Marching Drums",
+        "day_of_week": "Saturday",
+        "number_of_students": 25,
+        "price": 275,
+        "status": "active"
+    },
+    {
+        "course_name": "Latin Percussion",
+        "description": "Study Latin percussion instruments and rhythms, including congas, bongos, and timbales.",
+        "instructor_name": "James Anderson",
+        "instrument_name": "Congas, Bongos, Timbales",
+        "day_of_week": "Wednesday",
+        "number_of_students": 14,
+        "price": 400,
+        "status": "closed"
+    },
+    {
+        "course_name": "Jazz Percussion",
+        "description": "Focus on jazz drumming techniques and styles. Learn to play with swing and improvisation.",
+        "instructor_name": "Isabella Taylor",
+        "instrument_name": "Drum Set",
+        "day_of_week": "Friday",
+        "number_of_students": 9,
+        "price": 425,
+        "status": "archived"
+    },
+    {
+        "course_name": "Percussion Pedagogy",
+        "description": "Learn methods for teaching percussion. Ideal for aspiring percussion instructors.",
+        "instructor_name": "Mason Lee",
+        "instrument_name": "Various Percussion Instruments",
+        "day_of_week": "Thursday",
+        "number_of_students": 18,
+        "price": 350,
+        "status": "active"
+    }
+]
