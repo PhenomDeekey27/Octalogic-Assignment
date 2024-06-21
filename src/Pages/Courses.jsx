@@ -188,7 +188,7 @@ const UnarchieveCourse=()=>{
   const table=document.getElementById("course_table")
 
   table.style.opacity="1"
-   settoggleEdit(!toggleEdit)
+   settoggleEdit(false)
    setArchieveToggler(!ArchieveToggler)
 
 }
